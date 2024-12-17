@@ -25,9 +25,9 @@ hypr_package=(
   kvantum
   nano  
   network-manager-applet 
-  pamixer 
-  pavucontrol
-  pipewire-alsa 
+  #pamixer 
+  #pavucontrol
+  #pipewire-alsa 
   playerctl
   polkit-gnome
   python-requests
